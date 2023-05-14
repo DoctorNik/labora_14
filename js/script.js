@@ -23,7 +23,10 @@ themeButtons.forEach(function(button) {
   });
 });
 
-
+/*
+This HomeWork completed by Samaratunga Nikandr
+If you see this in homework from another people -- it's plagiarism
+*/
 
 let styleButton = document.querySelectorAll('.card-view-item button');
 let styleList = document.querySelector('.cards');
@@ -74,4 +77,25 @@ themeButton.forEach(function(button) {
     }
     })
 });
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+This HomeWork completed by Samaratunga Nikandr
+If you see this in homework from another people -- it's plagiarism
 */
